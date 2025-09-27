@@ -8,10 +8,6 @@ public class Main {
         his.introduction();
         sis.gerarCriatura();
         sis.meeting();
-        sis.gerarCriatura();
-        sis.meeting();
-        sis.gerarCriatura();
-        sis.meeting();
         
         System.out.println("Fim do teste");
     }
