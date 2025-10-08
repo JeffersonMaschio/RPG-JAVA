@@ -73,3 +73,72 @@ public class Story {
 //---------------------------------------------------------------
 
 }
+/*
+IDEIAS:
+
+- tela inicial ##
+    L> escolher nome ##
+- escolher classe
+
+
+- ## gerar um monstro
+- ## encontro com monstros
+    ## L> interface de batalha
+    ## L> interface de espólio / derrota
+
+- cidades
+- viajem
+    L> chance de algo acontecer
+
+- descanso
+    L> estabelecimentos
+    L> ao ar livre
+
+
+---------------------------------|
+<cidade inicial>
+- acampamento de guerra/posto avançado
+- general - guia de introducao
+                 L> 1º combate
+                 L> acoes basicas
+
+---------------------------------|
+TIRAR TEMPORARIAMENTE:
+- por ora, tirar melle de "arqueiro"
+- escolher 1 aliado
+
+________________________________________
+
+INTERFACE DE ENCONTRO
+|----------------|
+|  Fight     Bag |
+|                |
+|  Swap      Run |
+|----------------|
+
+INTERFADE DE LUTA
+|----------------|
+|  Hab1     Hab2 |
+|                |
+|  Hab3     Back |
+|----------------|
+
+//MAGO
+mago_hpmax = 12;
+mago_hab1 = 6;
+mago_hab2 = 9; (6 * 1.5)
+mago_hab3 = 15;
+
+//CAVALEIRO
+cavaleiro_hpmax = 20;
+cavaleiro_hab1 = 10;
+cavaleiro_hab2 = 15; (12 + 3)
+cavaleiro_hab3 = 20;
+
+//ARQUEIRO
+arqueiro_hpmax = 16;
+arqueiro_hab1 = 9;
+arqueiro_hab2 = 12; (9 + 3)
+arqueiro_hab3 = 18;
+*/
+
